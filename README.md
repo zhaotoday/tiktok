@@ -3,6 +3,7 @@
 #### 文档
 - [跨境电商B2C 万橙跨境孵化中心](https://www.yuque.com/ulianhui/internet_terminology/fv7yhq0zzya818mf)
 - [TikTok运营全攻略：养号、获客到变现](https://www.yuque.com/sushuimu/zoy475/zb6bknutoggh26gr)
+- [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
 
