@@ -6,6 +6,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [tiktok-uploader](https://github.com/wkaisertexas/tiktok-uploader)
 - [AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber)
 - [tiktok-business-api-sdk](https://github.com/tiktok/tiktok-business-api-sdk)
 - [tiktok-dl](https://github.com/hansputera/tiktok-dl)
