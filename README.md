@@ -6,6 +6,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [TikTokLive](https://github.com/isaackogan/TikTokLive)
 - [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector)
 - [tiktok-signature](https://github.com/carcabot/tiktok-signature)
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api)
