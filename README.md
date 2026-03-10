@@ -6,6 +6,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [tiktok-bot](https://github.com/somiibo/tiktok-bot)
 - [VidBee](https://github.com/nexmoe/VidBee)
 - [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 - [TikTok-Chat-Reader](https://github.com/zerodytrash/TikTok-Chat-Reader)
