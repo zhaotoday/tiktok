@@ -7,6 +7,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 - [4cat](https://github.com/digitalmethodsinitiative/4cat)
 - [tiktok-bot](https://github.com/simonfarah/tiktok-bot)
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill)
