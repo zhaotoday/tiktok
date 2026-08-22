@@ -13,6 +13,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [tiktokshop-php](https://github.com/EcomPHP/tiktokshop-php)
 - [tiktok-creator-sop-tool](https://github.com/hazelhu644-collab/tiktok-creator-sop-tool)
 - [tiktok-agent-skills](https://github.com/aronhy/tiktok-agent-skills)
 - [tiktok-shop-sdk](https://github.com/hsib19/tiktok-shop-sdk)
