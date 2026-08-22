@@ -13,6 +13,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [Tiktok-Booster](https://github.com/Sneezedip/Tiktok-Booster)
 - [tiktok-api](https://github.com/armxe/tiktok-api)
 - [tiktokshop-php](https://github.com/EcomPHP/tiktokshop-php)
 - [tiktok-api-dl](https://github.com/TobyG74/tiktok-api-dl)
