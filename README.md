@@ -13,6 +13,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)
 - [OpenCLI](https://github.com/jackwener/OpenCLI)
 - [TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader)
 - [tiktok-api](https://github.com/armxe/tiktok-api)
