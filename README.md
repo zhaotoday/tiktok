@@ -13,6 +13,7 @@
 - [课件5 TikTok 电商快速增长引擎 — 付费投流 + 矩阵打法](https://www.yuque.com/2016fengge/vemgb9/nh2e1g1761qk27dx)
 
 #### 开源
+- [nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills)
 - [data-api](https://github.com/justoneapi/data-api)
 - [TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock)
 - [tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder)
